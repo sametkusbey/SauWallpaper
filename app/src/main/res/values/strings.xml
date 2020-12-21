@@ -44,11 +44,17 @@
 
 
     <!-- Ads -->
-    <string name="admob_publisher_id">pub-8716608549971156</string>
+   <!-- <string name="admob_publisher_id">pub-8716608549971156</string>
     <string name="admob_app_id">ca-app-pub-8716608549971156~7454142552</string>
     <string name="admob_banner_id">ca-app-pub-8716608549971156/9968625252</string>
-    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/10331737125</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/10331737125</string> -->
     <string name="firebase_app_id">https://sametdeneme-fb4ff-default-rtdb.firebaseio.com/</string>
+    
+    
+    <!--Samet-->
+    <string name="admob_publisher_id">pub-87166085454654546</string>
+    <string name="admob_app_id">ca-app-pub-871646546546567454142552</string>
+    <string name="admob_banner_id">ca-app-pub-871660854945646456/9968625252</string>
 
 
 </resources>

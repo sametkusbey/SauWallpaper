@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Home -->
+
+    <string name="app_name">Sau WallPaper</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Navigasyon Drawer Aç</string>
+    <string name="navigation_drawer_close">Navigasyon Drawer Kapat</string>
+    <string name="menu_share">Uygulamayı Paylaş</string>
+
+    <!-- Category -->
+
+    <string name="desc">desk</string>
+
+
+    <!-- Navigation Drawer -->
+    <string name="app_version">Version 5.4</string> <!-- app_version also with About -->
+    <string name="drawer_email">samet.kusbey@berayazilim.net</string>
+    <string name="drawer_request_submit">Duvar Kağıdı İste / Gönder</string>
+    <string name="drawer_privacy_policy">Gizlilik Politikası</string>
+    <string name="drawer_rate_app">Bizi Değerlendirin !</string>
+    <string name="drawer_share_app">Uygulamayı Paylaş</string>
+    <string name="drawer_about_app">Hakkımızda</string>
+    <string name="drawer_remove_ads">Reklamları Kaldır</string>
+    <string name="drawer_exit_app">Çıkış</string>
+
+
+    <!-- About -->
+    <string name="privacy_policy">https://berayazilim.net/iletisim</string>
+    <string name="facebook_page">https://www.facebook.com/samet.kusbey/</string>
+    <string name="instagram_id">http://www.instagram.com/berkaykucuk0/</string>
+    <string name="twitter_page">https://www.twitter.com/sametkusbey/</string>
+    <string name="web_page">https://www.berayazilim.net</string>  <!-- OR Blog -->
+    <string name="privacy_summary">Gizlilik Politikamızı İncelemek İçin Tıklayın.</string>
+    <string name="title_app_rate">Uygulamamızı Beğendiniz mi ?</string>
+    <string name="rate_summary">Uygulamamızı beğendiyseniz Google Play Store üzerinden bizi oylayabilir ve uygulamamız hakkında yorum yapabilirsiniz.</string>
+    <string name="app_copyright">Tüm Hakları SBUM Grubuna Aittir.</string>
+    <string name="app_tip">Uygulamada veritabanında bulunan en son 100 görsel gösterilir. Daha fazla görmek için random kategori seçiniz.</string>
+
+
+
+    <!-- View Wallpaper -->
+    <string name="developer_name">&#160;&#160;&#160;SAU WALLPAPER</string>
+
+
+    <!-- Ads -->
+    <string name="admob_publisher_id">pub-8716608549971156</string>
+    <string name="admob_app_id">ca-app-pub-8716608549971156~7454142552</string>
+    <string name="admob_banner_id">ca-app-pub-8716608549971156/9968625252</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/10331737125</string>
+    <string name="firebase_app_id">https://sametdeneme-fb4ff-default-rtdb.firebaseio.com/</string>
+
+
+</resources>

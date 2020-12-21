@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736557254628",
+    "project_id": "sametdeneme-fb4ff",
+    "storage_bucket": "sametdeneme-fb4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736557254628:android:0904e5209c67d9244729f1",
+        "android_client_info": {
+          "package_name": "com.samet.sauwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736557254628-2bl3lmaefjo9v49ditgdmqm6cfuusja3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvO4j53rZPk39QLUTIEgAqLgTK5CjDlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736557254628-2bl3lmaefjo9v49ditgdmqm6cfuusja3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

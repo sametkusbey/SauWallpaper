@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#14121f</color>
+    <color name="colorPrimary">#1d192e</color>
+    <color name="colorAccent">#2f2d3d</color>
+
+
+    <color name="backgroundstyle">#04f0ed0e</color>
+    <color name="toolbarContant">#ffffff</color>
+    <color name="black_overly">#66000000</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="white_Overly">#e0e0e0</color>
+    <color name="navy_blue_type1">#333542</color>
+
+
+
+    <color name="save_btn_color">#ee4561</color>
+    <color name="setwallpaper_btn_color">#f05871</color>
+    <color name="Share_btn_color">#f37d91</color>
+    <color name="edit_btn_color">#f16a81</color>
+    <color name="text_color">#f16a81</color>
+    
+    
+    
+
+
+
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_10">#e6e6e6</color>
+
+    <color name="deep_orange_700">#E64A19</color>
+
+
+    <color name="black_alpha">#88000000</color>
+    <color name="black_alpha_40">#66000000</color>
+
+
+
+
+</resources>

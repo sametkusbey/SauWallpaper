@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cesards.android:cropimageview:1.0.2.1@aar">
+    <CLASSES>
+      <root url="jar://D:/Installation/Android/android/.gradle/caches/transforms-2/files-2.1/63014213cb9cc51c4393b6354d747453/jetified-cropimageview-1.0.2.1/jars/classes.jar!/" />
+      <root url="file://D:/Installation/Android/android/.gradle/caches/transforms-2/files-2.1/63014213cb9cc51c4393b6354d747453/jetified-cropimageview-1.0.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cesards.android/cropimageview/1.0.2.1/fd57284f5f59074caff7b34c73c5e7d2c2bd8dd7/cropimageview-1.0.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cesards.android/cropimageview/1.0.2.1/da3bd843f5f1cb50b5e61157087a1e02638ba005/cropimageview-1.0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
